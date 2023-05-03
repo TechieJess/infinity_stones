@@ -1,0 +1,35 @@
+/** @format */
+table,
+td {
+  text-align: center;
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* Background Colors */
+.top {
+  color: white;
+  background: black;
+}
+.orange {
+  background: orange;
+}
+.green {
+  background: green;
+}
+.blue {
+  background: blue;
+}
+.yellow {
+  background: yellow;
+}
+.red {
+  background: red;
+}
+.purple {
+  background: purple;
+}
